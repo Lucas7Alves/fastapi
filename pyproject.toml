@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "fast-oficina"
+version = "0.1.0"
+description = ""
+authors = ["Lucas Alves  <64313623+Lucas7Alves@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
